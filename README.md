@@ -1,5 +1,5 @@
 
-# "Leaf diseases segmentation"
+# Leaf diseases segmentation
 
 ### Abstract
 
