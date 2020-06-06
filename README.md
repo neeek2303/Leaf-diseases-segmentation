@@ -1,5 +1,5 @@
-```
-# "Leaf diseases segmentation"
+
+# Leaf diseases segmentation
 
 ### Abstract
 
@@ -16,7 +16,4 @@ RGB images of apple leafs with diseases from Plant Pathology 2020. Originally da
 
 ## Results demo video
 
-![](fill_video.GIF)
-
-
-```
+![](full_video.gif)
