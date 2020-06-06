@@ -3,7 +3,7 @@
 
 ### Abstract
 
-Monitoring plant status is one of the most im-portant tasks in digital agro.  It is important todetermine the type of disease , as well as its lo-cation,  that can be used for calculation of per-centage of plant damage.  Our task is to fulfillthese two tasks through classification, segmenta-tion and class activation map.  We also presentthe updated Plant Pathology 2020 dataset (4) withground truth masks of leaf diseases.
+Monitoring plant status is one of the most im-portant tasks in digital agro.  It is important todetermine the type of disease , as well as its lo-cation,  that can be used for calculation of per-centage of plant damage.  Our task is to fulfillthese two tasks through classification, segmenta-tion and class activation map.  We also presentthe updated Plant Pathology 2020 dataset withground truth masks of leaf diseases.
 
 
 
