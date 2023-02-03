@@ -7,6 +7,7 @@ Monitoring plant status is one of the most im-portant tasks in digital agro.  It
 
 
 
+
 ### Data
 
 We have captured high-quality, real-life
